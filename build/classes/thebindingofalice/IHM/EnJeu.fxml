@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="root" id="AnchorPane" prefHeight="700" prefWidth="1000" onKeyPressed="#handleOnKeyPressed" onKeyReleased="#handleKeyRelease" xmlns:fx="http://javafx.com/fxml/1" fx:controller="thebindingofalice.IHM.EnJeuView">
+    <children>
+        <AnchorPane fx:id="background" prefHeight="700" prefWidth="1000"/> 
+                  
+    </children>    
+</AnchorPane>
